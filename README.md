@@ -18,11 +18,8 @@ Projeto para ver o trailer do Super Mario - O filme 👨‍🔧🍄
 ## Desktop
 <img src="./readme-file/desktop.png">
 
-<br>
-
-
 #
-## Tecnologias utilizadas
+## Tecnologias utilizadas:
 - HTML
 - CSS
 - JS
